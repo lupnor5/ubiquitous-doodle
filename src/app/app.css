@@ -9,6 +9,7 @@ main {
 
 #users {
   list-style: none;
+  flex-direction: column;
   margin: 0;
   padding: 0;
   display: flex;
